@@ -1,7 +1,8 @@
-streamlit
 flask
+streamlit
 pandas
 numpy
 plotly
 requests
 scikit-learn
+gunicorn
